@@ -1,0 +1,10 @@
+{
+  "name": "com.marugamestudio.package-unity-manager",
+  "version": "1.0.0",
+  "displayName": "Package Unity Manager",
+  "description": "Package manager for MaruGameStudio",
+  "unity": "2020.3",
+  "author": {
+    "name": "MaruGameStudio"
+  }
+}
