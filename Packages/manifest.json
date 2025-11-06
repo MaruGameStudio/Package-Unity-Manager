@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.marugame.hotreload": "https://github.com/MaruGameStudio/Package-HotReload.git",
+  }
+}
